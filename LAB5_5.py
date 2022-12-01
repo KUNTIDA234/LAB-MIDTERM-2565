@@ -1,0 +1,8 @@
+f = open("Test02.txt","w",encoding="UTF-8")
+f.write("ant:มด\n")
+f.write("bat:ค้างคาว\n")
+f.write("bin:ถังขยะ\n")
+f.write("rat:หนู\n")
+f.write("zebra:ม้าลาย\n")
+f.write("zoo:สวนสัตว์\n")
+f.close()
